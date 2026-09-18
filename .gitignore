@@ -1,0 +1,6 @@
+# Generated benchmark outputs in the repository root
+/*.csv
+/*.png
+/*.gp
+/*.o
+
